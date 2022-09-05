@@ -6,16 +6,16 @@ if age < 2:
 elif age < 4:
     stage='toddler'
 
-elif age < 4:
+elif age < 13:
     stage='kid'
 
-elif age < 13:
+elif age < 20:
     stage='teenager'
 
-elif age < 20:
+elif age < 65:
     stage='adult'
 
-elif age >= 65:
+else:
     stage='elder'
 
 print(f"You is a {stage}.")
