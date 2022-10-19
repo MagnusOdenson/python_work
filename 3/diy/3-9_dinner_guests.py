@@ -1,4 +1,4 @@
-guest_list = ['Ada Lovelace', 'Akira Toriyama', 'Ben Affleck']
+guest_list = ['Ada Lovelace', 'Akira Toriyama', 'Ben Affleck', 'Dwayne Johnson']
 message = "you are cordially invited to a dinner."
 
 print(f"{guest_list[0]}, {message}")
